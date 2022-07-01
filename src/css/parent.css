@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+
+.dashboard {
+    background-color: black;
+    padding: 2%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    margin-bottom: 50px;
+}
+
+img {
+    width: 200px;
+    height: 280px;
+}
+
+p {
+    color: #fff;
+}
+
